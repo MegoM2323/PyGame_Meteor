@@ -24,7 +24,7 @@ Meteor - это увлекательная аркадная игра, разра
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your-username/meteor-game.git
+git clone https://github.com/MegoM2323/meteor-game.git
 ```
 
 2. Установите зависимости:
@@ -62,7 +62,7 @@ MIT License
 
 ## Автор
 
-[Ваше имя]
+MegoM2323
 
 ## Вклад в проект
 
