@@ -20,7 +20,7 @@
 
 ## Скриншоты и Видео
 
-![видео](./Video.mp4)
+[видео](Video.mp4)
 ![фото 1](images/ForGitHub/image1.png)
 ![фото 2](images/ForGitHub/image2.png)
 
